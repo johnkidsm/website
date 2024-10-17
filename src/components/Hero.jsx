@@ -28,6 +28,7 @@ const Hero = () => {
       </div>
 
       <ComputersCanvas />
+
     </section>
   )
 }
