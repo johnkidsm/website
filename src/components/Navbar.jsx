@@ -32,9 +32,9 @@ const Navbar = () => {
             className="w-12 h-12 object-contain"
           />
           <p className="text-white text-[28px]
-          cursor-pointer">Virtual A.I. |           <span
+          cursor-pointer">Virtual A.I.           <span
           className="text-white text-[14px]"
-          >We make the brain.</span></p>
+          > - We make the brain.</span></p>
         </Link>
         <ul className="list-none hidden sm:flex
         flex-row gap-10">

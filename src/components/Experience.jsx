@@ -23,13 +23,13 @@ const ExperienceCard = ({ experience }) => {
       date={experience.date}
       iconStyle={{ background: experience.iconBg }}
       icon={
-        <div className='flex justify-center items-center w-full h-full'>
-          <img
-            src={experience.icon}
-            alt={experience.company_name}
-            className='w-[60%] h-[60%] object-contain'
-          />
-        </div>
+        <div className="w-full h-full flex justify-center items-center">
+        <img
+          src={experience.icon}
+          alt={experience.company_name}
+          className="w-[90%] h-[90%] rounded-full object-cover" // Changed from object-contain to object-cover and added specific size
+        />
+      </div>
       }
     >
       <div>
@@ -61,10 +61,10 @@ const Experience = () => {
     <>
       <motion.div variants={textVariant()}>
         <p className={`${styles.sectionSubText} text-center`}>
-          What I have done so far
+        Product & Service 
         </p>
         <h2 className={`${styles.sectionHeadText} text-center`}>
-          Work Experience.
+          Company Focus
         </h2>
       </motion.div>
 
