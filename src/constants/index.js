@@ -42,19 +42,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Artificial Intelligence",
     icon: web,
   },
   {
-    title: "AI Model Fine-tuning",
+    title: "Virtual Reality & Augmented Reality",
     icon: mobile,
   },
   {
-    title: "VR App developer",
+    title: "Virtual Assistants",
     icon: backend,
   },
   {
-    title: "3D Simulation",
+    title: "Robotic Simulation",
     icon: creator,
   },
 ];

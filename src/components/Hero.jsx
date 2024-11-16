@@ -15,14 +15,13 @@ const Hero = () => {
         </div>
 
         <div>
-           <h1 className={`${styles.heroHeadText} text-white`}>
-            Hi, I'm <span className="text-[#915eff]">
-              Johnny
-            </span>
-           </h1>
-           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I develop 3D visuals, VR <br className="sm:block hidden" />
-            and AI applications
+           <p className={` text-[28px] text-white`}>
+           We are VirtualAI located in Shanghai, China.
+           </p>
+           <p className={`text-[18px] mt-2 text-white-100`}>
+           In a world increasingly driven by technology, <br />
+           Virtual AI emerges as a visionary company at the forefront <br />
+           of artificial intelligence and virtual reality.
            </p>
         </div>
       </div>

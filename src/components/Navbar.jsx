@@ -22,19 +22,19 @@ const Navbar = () => {
       max-w-7xl mx-auto">
         <Link 
           to='/'
-          className="flex items-center gap-2"
+          className="flex flex-row gap-4"
           onClick={() => {
             setActive('');
             window.scrollTo(0, 0);
           }}
         >
           <img src="/logo.svg" alt="logo"
-            className="w-20 h-20 object-contain"
+            className="w-12 h-12 object-contain"
           />
-          <p className="text-white text-[18px]
-          font-bold cursor-pointer">Johnny AI<span
-          className="sm:block hidden"
-          >- AI, VR and 3D</span></p>
+          <p className="text-white text-[28px]
+          cursor-pointer">Virtual A.I. |           <span
+          className="text-white text-[14px]"
+          >We make the brain.</span></p>
         </Link>
         <ul className="list-none hidden sm:flex
         flex-row gap-10">
