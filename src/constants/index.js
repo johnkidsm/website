@@ -178,7 +178,7 @@ const testimonials = [
       "Chief Executive Officer (CEO) & AI/ML Expert & Software Engineer",
     name: "Yu Nong",
     designation: "CEO",
-    company: "Virtual AI",
+    company: "VirtualAI",
     image: "../../john.jpg",
   },
   {
@@ -186,7 +186,7 @@ const testimonials = [
       "Expert in AI and ML, specialized in deep learning and reinforcement learning",
     name: "Jia-Qiang Sun",
     designation: "Data Engineer",
-    company: "Virtual AI",
+    company: "VirtualAI",
     image: "sun.jpg",
   },
   {
@@ -194,7 +194,7 @@ const testimonials = [
       "Specialized in system design and cloud computing.",
     name: "Hua-Nan Wu",
     designation: "Software Engineer",
-    company: "Virtual AI",
+    company: "VirtualAI",
     image: "https://randomuser.me/api/portraits/women/2.jpg",
   },
   {
@@ -202,7 +202,7 @@ const testimonials = [
       "Specialized in software development of AR and VR and mobile applications",
     name: "Kai Wang",
     designation: "Software Engineer",
-    company: "Virtual AI",
+    company: "VirtualAI",
     image: "wang.jpg",
   },
   {
@@ -210,7 +210,7 @@ const testimonials = [
       "Specialized in Marketing & Finance",
     name: "Shu-Jun Zhao",
     designation: "Accountant",
-    company: "Virtual AI",
+    company: "VirtualAI",
     image: "zhao.jpg",
   },
   

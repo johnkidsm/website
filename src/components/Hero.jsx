@@ -20,7 +20,7 @@ const Hero = () => {
            </p>
            <p className={`text-[18px] mt-2 text-white-100`}>
            In a world increasingly driven by technology, <br />
-           Virtual AI emerges as a visionary company at the forefront <br />
+           VirtualAI emerges as a visionary company at the forefront <br />
            of artificial intelligence and virtual reality.
            </p>
         </div>
