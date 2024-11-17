@@ -175,28 +175,45 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Chief Executive Officer (CEO) & AI/ML Expert & Software Engineer",
+    name: "Yu Nong",
+    designation: "CEO",
+    company: "Virtual AI",
+    image: "../../john.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "Expert in AI and ML, specialized in deep learning and reinforcement learning",
+    name: "Jia-Qiang Sun",
+    designation: "Data Engineer",
+    company: "Virtual AI",
+    image: "sun.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "Specialized in system design and cloud computing.",
+    name: "Hua-Nan Wu",
+    designation: "Software Engineer",
+    company: "Virtual AI",
+    image: "https://randomuser.me/api/portraits/women/2.jpg",
   },
+  {
+    testimonial:
+      "Specialized in software development of AR and VR and mobile applications",
+    name: "Kai Wang",
+    designation: "Software Engineer",
+    company: "Virtual AI",
+    image: "wang.jpg",
+  },
+  {
+    testimonial:
+      "Specialized in Marketing & Finance",
+    name: "Shu-Jun Zhao",
+    designation: "Accountant",
+    company: "Virtual AI",
+    image: "zhao.jpg",
+  },
+  
 ];
 
 const projects = [
