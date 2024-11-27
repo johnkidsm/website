@@ -38,7 +38,7 @@ const Navbar = () => {
           <sup className="absolute -top-0 -right-4 text-[32px]">®</sup>
         </span>
         <span className="relative text-[28px]">
-        &nbsp;&nbsp;智龙科技
+        &nbsp;&nbsp;智龙X科技
           <sup className="absolute -top-0 -right-4 text-[24px]">™</sup>
         </span>
       </h1>
