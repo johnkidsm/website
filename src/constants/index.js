@@ -191,6 +191,14 @@ const testimonials = [
   },
   {
     testimonial:
+      "Expert in AI and ML, specialized in LLM & model fine-tuning.",
+    name: "Hai-Tao Zhang",
+    designation: "Data Engineer",
+    company: "VirtualAI China",
+    image: "Hai-Tao Zhang.jpg",
+  },
+  {
+    testimonial:
       "Specialized in system design and cloud computing.",
     name: "Hua-Nan Wu",
     designation: "Software Engineer",
