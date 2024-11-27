@@ -21,7 +21,7 @@ const Hero = () => {
            <p className={`text-[18px] mt-2 text-white-100`}>
            In a world increasingly driven by technology, <br />
            VirtualAI China emerges as a visionary company at the forefront <br />
-           of artificial intelligence and virtual reality.
+           of virtual intelligence -- artificial intelligence, virtual reality and augmented reality(XR).
            </p>
         </div>
       </div>
