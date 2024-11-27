@@ -29,12 +29,21 @@ const Navbar = () => {
           }}
         >
           <img src="/logo.svg" alt="logo"
-            className="w-12 h-12 object-contain"
+            className="w-12 h-12 object-contain rounded-none"
           />
-          <p className="text-white text-[28px]
-          cursor-pointer">Virtual A.I.           <span
-          className="text-white text-[14px]"
-          > - We make the brain.</span></p>
+              <div className="flex flex-col gap-1">
+      <h1 className="text-white text-[28px] flex flex-wrap items-start gap-x-2">
+        <span className="relative">
+          Virtual A.I. China 
+          <sup className="absolute -top-0 -right-4 text-[32px]">®</sup>
+        </span>
+        <span className="relative text-[28px]">
+        &nbsp;&nbsp;智龙科技
+          <sup className="absolute -top-0 -right-4 text-[24px]">™</sup>
+        </span>
+      </h1>
+      <p className="text-white text-[14px]">- We make the brain.</p>
+    </div>
         </Link>
         <ul className="list-none hidden sm:flex
         flex-row gap-10">
