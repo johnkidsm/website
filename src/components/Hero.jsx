@@ -16,11 +16,11 @@ const Hero = () => {
 
         <div>
            <p className={` text-[28px] text-white`}>
-           We are Virtual AI China.
+           We are VirtualAI China.
            </p>
            <p className={`text-[18px] mt-2 text-white-100`}>
            In a world increasingly driven by technology, <br />
-           VirtualAI emerges as a visionary company at the forefront <br />
+           VirtualAI China emerges as a visionary company at the forefront <br />
            of artificial intelligence and virtual reality.
            </p>
         </div>
