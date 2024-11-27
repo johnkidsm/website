@@ -191,7 +191,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Expert in AI and ML, specialized in LLM & model fine-tuning.",
+      "Expert in AI and ML, specialized in LLMs & model fine-tuning.",
     name: "Hai-Tao Zhang",
     designation: "Data Engineer",
     company: "VirtualAI China",
