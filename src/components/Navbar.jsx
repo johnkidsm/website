@@ -28,8 +28,8 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src="/logo.svg" alt="logo"
-            className="w-12 h-12 object-contain rounded-none"
+          <img src="/logo.JPG" alt="logo"
+            className="w-12 h-12 object-contain rounded-full"
           />
               <div className="flex flex-col gap-1">
       <h1 className="text-white text-[28px] flex flex-wrap items-start gap-x-2">
