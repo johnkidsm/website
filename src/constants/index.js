@@ -151,7 +151,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "Simulations & Training",
     points: [
-      "VirtualAI uses AI to create realistic simulations for training purposes, such as robotic simulators, flight simulators, medical training, or military exercises.",
+      "We use AI to create realistic simulations for training purposes, such as robotic simulators, flight simulators, medical training, or military exercises.",
       "Healthcare: Train medical professionals in surgical techniques and patient care.",
       "Manufacturing: Simulate assembly line operations and quality control processes.",
       "Aviation: Simulate flight conditions and emergency procedures.",
