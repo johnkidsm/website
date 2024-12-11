@@ -19,12 +19,12 @@ const Hero = () => {
         <span className="relative">
           We are VirtualAI China 
           <sup className="absolute -top-0 -right-4 text-[24px]">™</sup>
-        </span>: Innovating AI Software for the Future.
+          </span> : Innovating AI Software for the Future.
       </h1>
            <p className={`text-[18px] mt-2 text-white-100`}>
            In a world increasingly driven by technology, <br />
            VirtualAI China emerges as a visionary company at the forefront <br />
-           of virtual intelligence -- artificial intelligence, virtual reality and augmented reality(AI + XR).
+           of virtual intelligence: artificial intelligence, virtual reality and augmented reality(AI + XR).
            </p>
         </div>
       </div>
