@@ -19,7 +19,7 @@ const Hero = () => {
         <span className="relative">
           We are VirtualAI China 
           <sup className="absolute -top-0 -right-4 text-[24px]">™</sup>
-        </span>.
+        </span>: Innovating AI Software for the Future.
       </h1>
            <p className={`text-[18px] mt-2 text-white-100`}>
            In a world increasingly driven by technology, <br />
