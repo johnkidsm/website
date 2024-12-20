@@ -28,7 +28,7 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src="/logo.JPG" alt="logo"
+          <img src="/Logo_vai-modified.png" alt="logo"
             className="w-12 h-12 object-contain rounded-full"
           />
               <div className="flex flex-col gap-1">
