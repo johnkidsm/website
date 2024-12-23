@@ -5,7 +5,23 @@ const Footer = () => {
     <div className="flex flex-col justify-between items-center w-full h-20">
       <p className="text-sm text-gray-400 font-light tracking-wide">
         Address: 59 East Yan'an Road, Waitan, Huangpu District, Shanghai 邮政编码：200000
-      </p> 
+      </p>
+      <div className="flex flex-col justify-between items-center w-full h-20"></div> 
+      <a 
+        href="https://www.linkedin.com/company/virtualai-china/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="my-2"
+        aria-label="Visit VirtualAI China on LinkedIn"
+      >
+        <img
+          src="/linkedin.png"
+          alt="LinkedIn"
+          width={25}
+          height={25}
+          className="opacity-70 rounded hover:opacity-100 transition-opacity"
+        />
+      </a>
       <p className="text-sm text-gray-400 font-light tracking-wide">
         VirtualAI China © 2024
       </p>
