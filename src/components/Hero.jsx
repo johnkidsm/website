@@ -25,7 +25,7 @@ const Hero = () => {
            In a world increasingly driven by technology, <br />
            VirtualAI China emerges as a visionary company at the forefront <br />
            of "virtual intelligence": artificial intelligence, virtual reality, augmented reality <br />
-           and simulation (AI + XR + Sim-to-Real).
+           and robotic simulation (AI + XR + Sim-to-Real).
            </p>
         </div>
       </div>
