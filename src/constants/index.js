@@ -50,11 +50,11 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Virtual Assistants",
+    title: "Robotic Simulation",
     icon: backend,
   },
   {
-    title: "Robotic Simulation",
+    title: "Gaming",
     icon: creator,
   },
 ];
