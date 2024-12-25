@@ -1,8 +1,25 @@
+'use client'
+
+import { useState, useRef, useEffect } from "react";
 import { motion } from "framer-motion";
 import { styles } from '../styles';
 import { fadeIn, textVariant } from "../utils/motion";
+import { VolumeX, Volume2 } from 'lucide-react';
 
 const Hero = () => {
+  const [isMuted, setIsMuted] = useState(true);
+  const videoRef = useRef<HTMLVideoElement>(null);
+
+  useEffect(() => {
+    if (videoRef.current) {
+      videoRef.current.muted = isMuted;
+    }
+  }, [isMuted]);
+
+  const toggleMute = () => {
+    setIsMuted(!isMuted);
+  };
+
   return (
     <section className="relative w-full h-screen mx-auto">
       <div className={`${styles.paddingX} absolute
@@ -29,20 +46,26 @@ const Hero = () => {
           </p>
           
           <motion.div
-                  variants={fadeIn("up", "spring", 0.5, 1)}
-                  className="w-[1000px] h-[450px] mt-10 mb-10 relative rounded-lg overflow-hidden"
-                >
-                  <video
-                    autoPlay
-                    muted
-                    loop
-                    playsInline
-                    className="w-full h-full object-cover"
-                  >
-                    <source src="/logo.mp4" type="video/mp4" />
-                    Your browser does not support the video tag.
-                  </video>
-                </motion.div>
+            variants={fadeIn("up", "spring", 0.5, 1)}
+            className="w-[1000px] h-[450px] mt-10 mb-10 relative rounded-lg overflow-hidden"
+          >
+            <video
+              autoPlay
+              loop
+              muted={isMuted}
+              playsInline
+              className="w-full h-full object-cover"
+            >
+              <source src="/logo-with-voice.mp4" type="video/mp4" />
+              Your browser does not support the video tag.
+            </video>
+            <button
+              onClick={toggleMute}
+              className="absolute bottom-4 right-4 p-2 bg-black bg-opacity-50 rounded-full text-white hover:bg-opacity-75 transition-opacity"
+            >
+              {isMuted ? <VolumeX size={24} /> : <Volume2 size={24} />}
+            </button>
+          </motion.div>
         </div>
       </div>
     </section>
@@ -50,4 +73,3 @@ const Hero = () => {
 }
 
 export default Hero
-
