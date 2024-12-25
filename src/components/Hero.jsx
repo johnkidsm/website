@@ -7,7 +7,7 @@ import { fadeIn, textVariant } from "../utils/motion";
 import { VolumeX, Volume2 } from 'lucide-react';
 
 const Hero = () => {
-  const [isMuted, setIsMuted] = useState(false);
+  const [isMuted, setIsMuted] = useState(true);
   const videoRef = useRef<HTMLVideoElement>(null);
 
   useEffect(() => {
