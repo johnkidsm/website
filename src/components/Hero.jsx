@@ -47,7 +47,7 @@ const Hero = () => {
           
           <motion.div
             variants={fadeIn("up", "spring", 0.5, 1)}
-            className="w-[1000px] h-[450px] mt-10 mb-10 relative rounded-lg overflow-hidden"
+            className="w-full h-[400px] mt-10 mb-10 relative rounded-lg overflow-hidden"
           >
             <video
               autoPlay
