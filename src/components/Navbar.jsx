@@ -34,12 +34,8 @@ const Navbar = () => {
               <div className="flex flex-col gap-1">
       <h1 className="text-white text-[28px] flex flex-wrap items-start gap-x-2">
         <span className="relative">
-          Virtual A.I. China 
-          <sup className="absolute -top-0 -right-4 text-[32px]">®</sup>
-        </span>
-        <span className="relative text-[28px]">
-        &nbsp;&nbsp;智龙X科技
-          <sup className="absolute -top-0 -right-4 text-[24px]">™</sup>
+          Virtual A.I. China 智龙X科技
+          <span className="absolute bottom-0 left-0 w-full h-[2px] bg-gradient-to-r from-blue-500 to-purple-500"></span>
         </span>
       </h1>
       <p className="text-white text-[14px]">- We make the brain.</p>

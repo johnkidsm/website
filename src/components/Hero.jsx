@@ -44,10 +44,7 @@ const Hero = () => {
         <div>
           <h1 className="text-white text-[28px] sm:text-[40px] lg:text-[50px] flex flex-wrap items-start gap-x-2">
             <span className="relative">
-              We are VirtualAI China 
-              <sup className="absolute -top-0 -right-4 text-[24px] sm:text-[32px]">™</sup>
-            </span>
-            <span className="hidden sm:inline">: Innovating AI Software for the Future.</span>
+              We are VirtualAI China: Innovating AI Software for the Future.</span>
           </h1>
           <p className={`text-[18px] mt-2 text-white-100 max-w-3xl`}>
             In a world increasingly driven by technology, <br className="hidden sm:block" />
