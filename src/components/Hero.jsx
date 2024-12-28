@@ -40,11 +40,15 @@ const Hero = () => {
 
   return (
     <section className="relative w-full h-screen mx-auto overflow-hidden">
-      <div className={`${styles.paddingX} absolute inset-0 top-[120px] max-w-7xl mx-auto flex flex-col items-start gap-5`}>
+      <div className={`${styles.paddingX} absolute inset-0 top-[120px] max-w-7xl mx-auto flex flex-row items-start gap-5`}>
+        <div className='flex flex-col justify-center items-center mt-5'>
+          <div className='w-5 h-5 rounded-full bg-[#915EFF]' />
+          <div className='w-1 sm:h-80 h-40 violet-gradient' />
+        </div>
+        <div>
         <div>
           <h1 className="text-white text-[28px] sm:text-[40px] lg:text-[50px] flex flex-wrap items-start gap-x-2">
-            <span className="relative">
-              We are VirtualAI China: Innovating AI Software for the Future.</span>
+            <span className='text-[#915EFF]'>We are VirtualAI China: Innovating AI Software for the Future.</span>
           </h1>
           <p className={`text-[18px] mt-2 text-white-100 max-w-3xl`}>
             In a world increasingly driven by technology, <br className="hidden sm:block" />
@@ -57,7 +61,7 @@ const Hero = () => {
         <motion.div
           ref={containerRef}
           variants={fadeIn("up", "spring", 0.5, 1)}
-          className="w-full h-[200px] sm:h-[400px] mt-4 sm:mt-10 relative rounded-lg overflow-hidden"
+          className="w-full h-[300px] sm:h-[400px] mt-4 sm:mt-10 relative rounded-lg overflow-hidden"
         >
           <video
             ref={videoRef}
@@ -77,6 +81,7 @@ const Hero = () => {
             {isMuted ? <VolumeX size={24} /> : <Volume2 size={24} />}
           </button>
         </motion.div>
+        </div>
       </div>
     </section>
   )
