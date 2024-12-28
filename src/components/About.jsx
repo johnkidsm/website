@@ -97,7 +97,7 @@ At the core of our philosophy lies a commitment to Humanity-Centered Innovation.
           playsInline
           className="w-full h-full object-cover"
         >
-          <source src="/headquarter.mp4" type="video/mp4" />
+          <source src="/headquarter-with-music.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       </motion.div>

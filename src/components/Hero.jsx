@@ -71,7 +71,7 @@ const Hero = () => {
             playsInline
             className="w-full h-full object-cover"
           >
-            <source src="/logo-with-voice.mp4" type="video/mp4" />
+            <source src="/logo-and-voice.mp4" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
           <button
