@@ -47,10 +47,10 @@ const Hero = () => {
         </div>
         <div>
         <div>
-          <h1 className="text-white text-[28px] sm:text-[40px] lg:text-[50px] flex flex-wrap items-start gap-x-2">
+          <h1 className="text-white text-[14px] sm:text-[20px] lg:text-[25px] flex flex-wrap items-start gap-x-2">
             <span className='text-[#915EFF]'>We are VirtualAI China & International: Innovating AI Software for the Future.</span>
           </h1>
-          <p className={`text-[18px] mt-2 text-white-100 max-w-3xl`}>
+          <p className={`text-[17px] mt-2 text-white-100 max-w-3xl`}>
             In a world increasingly driven by technology, <br className="hidden sm:block" />
             VirtualAI China & International emerges as a visionary company at the forefront <br className="hidden sm:block" />
             of "virtual intelligence": artificial intelligence, virtual reality, augmented reality, <br className="hidden sm:block" />
