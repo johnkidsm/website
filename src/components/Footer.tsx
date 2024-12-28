@@ -8,7 +8,7 @@ const Footer = () => {
       </p>
       <div className="flex gap-4"> 
       <a 
-        href="https://www.linkedin.com/company/virtualai-china/"
+        href="https://www.linkedin.com/company/virtualai-china-and-international/"
         target="_blank"
         rel="noopener noreferrer"
         className="my-2"
@@ -23,7 +23,7 @@ const Footer = () => {
         />
       </a>
       <a 
-        href="https://www.linkedin.com/company/virtualai-china/"
+        href="https://www.linkedin.com/company/virtualai-china-and-international/"
         target="_blank"
         rel="noopener noreferrer"
         className="my-2"
@@ -38,7 +38,7 @@ const Footer = () => {
         />
       </a>
       <a 
-        href="https://www.linkedin.com/company/virtualai-china/"
+        href="https://www.linkedin.com/company/virtualai-china-and-international/"
         target="_blank"
         rel="noopener noreferrer"
         className="my-2"
@@ -53,7 +53,7 @@ const Footer = () => {
         />
       </a>
       <a 
-        href="https://www.linkedin.com/company/virtualai-china/"
+        href="https://www.linkedin.com/company/virtualai-china-and-international/"
         target="_blank"
         rel="noopener noreferrer"
         className="my-2"
@@ -69,7 +69,7 @@ const Footer = () => {
       </a>
       </div>
       <p className="text-sm text-gray-400 font-light tracking-wide">
-        VirtualAI China © 2024
+        VirtualAI China & International © 2024
       </p>
     </div>
   )

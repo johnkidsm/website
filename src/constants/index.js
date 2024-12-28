@@ -137,7 +137,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Digital Agents",
     points: [
-      "We develops virtual assistants capable of understanding and responding to natural language, providing information, completing tasks, and offering personalized experiences.",
+      "We develop advanced virtual assistants capable of understanding and responding to natural language, providing information, completing tasks, and offering personalized experiences.",
       "Customer Service: Provide 24/7 customer support, answer inquiries, and resolve issues.",
       "Personal Assistants: Manage schedules, set reminders, and provide personalized recommendations.",
       "Language Translation: Facilitate real-time language translation and interpretation.",
@@ -178,7 +178,7 @@ const testimonials = [
       "Chief Executive Officer (CEO) & AI/ML Expert & Software Engineer",
     name: "Yu Nong",
     designation: "CEO",
-    company: "VirtualAI China",
+    company: "VirtualAI China & International",
     image: "../../john.jpg",
   },
   {
@@ -186,7 +186,7 @@ const testimonials = [
       "Expert in AI and ML, specialized in deep learning and reinforcement learning",
     name: "Jia-Qiang Sun",
     designation: "Data Engineer",
-    company: "VirtualAI China",
+    company: "VirtualAI China & International",
     image: "sun.jpg",
   },
   {
@@ -194,7 +194,7 @@ const testimonials = [
       "Expert in AI and ML, specialized in LLMs & model fine-tuning.",
     name: "Hai-Tao Zhang",
     designation: "Data Engineer",
-    company: "VirtualAI China",
+    company: "VirtualAI China & International",
     image: "Hai-Tao Zhang.jpg",
   },
   {
@@ -202,7 +202,7 @@ const testimonials = [
       "Specialized in system design and cloud computing.",
     name: "Hua-Nan Wu",
     designation: "Software Engineer",
-    company: "VirtualAI China",
+    company: "VirtualAI China & International",
     image: "https://randomuser.me/api/portraits/women/2.jpg",
   },
   {
@@ -210,7 +210,7 @@ const testimonials = [
       "Specialized in software development of AR and VR and mobile applications",
     name: "Kai Wang",
     designation: "Software Engineer",
-    company: "VirtualAI China",
+    company: "VirtualAI China & International",
     image: "wang.jpg",
   },
   {
@@ -218,7 +218,7 @@ const testimonials = [
       "Specialized in Marketing & Finance",
     name: "Shu-Jun Zhao",
     designation: "Accountant",
-    company: "VirtualAI China",
+    company: "VirtualAI China & International",
     image: "zhao.jpg",
   },
   

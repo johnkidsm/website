@@ -50,7 +50,7 @@ const Navbar = () => {
               <div className="flex flex-col gap-1">
       <h1 className="text-white text-[28px] flex flex-wrap items-start gap-x-2">
         <span className="relative">
-          Virtual A.I. China 智龙X科技
+          Virtual A.I. China & International 智龙X科技
           <span className="absolute bottom-0 left-0 w-full h-[2px] bg-gradient-to-r from-blue-500 to-purple-500"></span>
         </span>
       </h1>
