@@ -48,13 +48,13 @@ const Navbar = () => {
             className="w-12 h-12 object-contain rounded-full"
           />
               <div className="flex flex-col gap-1">
-      <h1 className="text-white text-[28px] flex flex-wrap items-start gap-x-2">
+      <h1 className="text-white sm:text-[28px] text-[18px] flex flex-wrap items-start gap-x-2">
         <span className="relative">
           Virtual A.I. China & International 智龙X科技
           <span className="absolute bottom-0 left-0 w-full h-[2px] bg-gradient-to-r from-blue-500 to-purple-500"></span>
         </span>
       </h1>
-      <p className="text-white text-[14px]">- We make the brain.</p>
+      <p className="text-white sm:text-[14px] text-[10px]">- We make the brain.</p>
     </div>
         </Link>
         <ul className="list-none hidden sm:flex
