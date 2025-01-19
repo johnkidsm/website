@@ -19,7 +19,7 @@ const Footer = () => {
           alt="LinkedIn"
           width={27}
           height={27}
-          className="opacity-70 rounded-s-xl hover:opacity-100 transition-opacity"
+          className="opacity-70 rounded-full hover:opacity-100 transition-opacity"
         />
       </a>
       <a 
@@ -34,7 +34,7 @@ const Footer = () => {
           alt="Wechat"
           width={25}
           height={25}
-          className="opacity-70 rounded-s-xl hover:opacity-100 transition-opacity"
+          className="opacity-70 rounded-full hover:opacity-100 transition-opacity"
         />
       </a>
       <a 
@@ -49,7 +49,7 @@ const Footer = () => {
           alt="Instagram"
           width={25}
           height={25}
-          className="opacity-70 rounded-s-xl hover:opacity-100 transition-opacity"
+          className="opacity-70 rounded-full hover:opacity-100 transition-opacity"
         />
       </a>
       <a 
@@ -64,7 +64,7 @@ const Footer = () => {
           alt="Twitter"
           width={25}
           height={25}
-          className="opacity-70 rounded-s-xl hover:opacity-100 transition-opacity"
+          className="opacity-70 rounded-full hover:opacity-100 transition-opacity"
         />
       </a>
       </div>
