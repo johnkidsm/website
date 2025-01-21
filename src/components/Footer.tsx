@@ -3,9 +3,9 @@ import React from 'react'
 const Footer = () => {
   return (
     <div className="flex flex-col justify-between items-center w-full h-20">
-      <p className="text-sm text-gray-400 font-light tracking-wide">
+      {/* <p className="text-sm text-gray-400 font-light tracking-wide">
         Address: 59 East Yan'an Road, Waitan, Huangpu District, Shanghai 邮政编码：200000
-      </p>
+      </p> */}
       <div className="flex gap-4"> 
       <a 
         href="https://www.linkedin.com/company/virtualai-china-and-international/"
