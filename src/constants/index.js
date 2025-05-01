@@ -19,8 +19,8 @@ import {
   starbucks,
   tesla,
   shopify,
-  carrent,
-  jobit,
+  vrshootz,
+  pcshootz,
   tripguide,
   threejs,
 } from "../assets";
