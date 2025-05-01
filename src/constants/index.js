@@ -215,7 +215,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: vrshootz,
     source_code_link: "https://kt1v0b-wr.myshopify.com/products/vr-shoot-zombies-i-preview-tested-on-oculus-quest-headsets",
   },
   {
@@ -236,7 +236,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: pcshootz,
     source_code_link: "https://kt1v0b-wr.myshopify.com/products/fps-shoot-zombies-i-preview",
   },
 ];
