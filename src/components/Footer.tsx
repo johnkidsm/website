@@ -23,15 +23,15 @@ const Footer = () => {
         />
       </a>
       <a 
-        href="https://www.linkedin.com/company/virtualai-china-and-international/"
+        href="https://kt1v0b-wr.myshopify.com/"
         target="_blank"
         rel="noopener noreferrer"
         className="my-2"
-        aria-label="Visit VirtualAI China on Wechat"
+        aria-label="Visit VirtualAI China on Shopify"
       >
         <img
-          src="/wechat.jpg"
-          alt="Wechat"
+          src="/shopify.png"
+          alt="shopify"
           width={25}
           height={25}
           className="opacity-70 rounded-full hover:opacity-100 transition-opacity"
