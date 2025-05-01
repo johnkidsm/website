@@ -239,6 +239,27 @@ const projects = [
     image: "pcshootz.png",
     source_code_link: "https://kt1v0b-wr.myshopify.com/products/fps-shoot-zombies-i-preview",
   },
+  {
+    name: "VR Weapon System for Military Training",
+    description:
+      "This VR system offers realistic pistol and assault rifle simulations for military training, closely replicating real-world form, feel, and operation. Benefits include enhanced realism, significant savings on ammunition and training costs, and the elimination of live firearm training accidents.",
+    tags: [
+      {
+        name: "VR",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Training",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Immersive",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: "militarytraining.png",
+    source_code_link: "https://kt1v0b-wr.myshopify.com/products/vr-pistol-and-assault-rifle-training-toolkit",
+  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
