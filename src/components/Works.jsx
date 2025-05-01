@@ -40,7 +40,7 @@ const ProjectCard = ({
               <img
                 src="/shopify.png"
                 alt='shopify link'
-                className='w-1/2 h-1/2 object-contain'
+                className='w-full h-full object-contain rounded-full'
               />
             </div>
           </div>
