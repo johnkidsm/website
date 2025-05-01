@@ -53,7 +53,7 @@ const Footer = () => {
         />
       </a>
       <a 
-        href="https://www.linkedin.com/company/virtualai-china-and-international/"
+        href="https://discord.gg/3auRxUhX"
         target="_blank"
         rel="noopener noreferrer"
         className="my-2"
