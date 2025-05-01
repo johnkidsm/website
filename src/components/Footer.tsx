@@ -38,15 +38,15 @@ const Footer = () => {
         />
       </a>
       <a 
-        href="https://www.linkedin.com/company/virtualai-china-and-international/"
+        href="https://x.com/VirtualAIChina"
         target="_blank"
         rel="noopener noreferrer"
         className="my-2"
-        aria-label="Visit VirtualAI China on Instagram"
+        aria-label="Visit VirtualAI China on X"
       >
         <img
-          src="/instagram.jpg"
-          alt="Instagram"
+          src="/twitter.png"
+          alt="X"
           width={25}
           height={25}
           className="opacity-70 rounded-full hover:opacity-100 transition-opacity"
