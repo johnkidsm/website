@@ -198,67 +198,46 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "VR Shoot Zombies I Preview (Tested on Oculus Quest Headsets)",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Gear Up for Survival! 🧟 Face the Horde in 'Shoot Zombies I Preview' VR! Prepare for intense action in the upcoming VR game, 'Shoot Zombies I Preview'! 🕹️ Choose your graphic quality and arm yourself with a pistol&nbsp; or assault rifle&nbsp; to take on relentless waves of the undead. 💀 Strategically eliminate every zombie to progress through each wave of Act I. And when the fight gets tough, keep an eye out for first aid to recover your health and stay in the action! 🩹 Can you reach the tunnel entrance before time runs out in Act II? ⏳ 'Kill Zombies I Preview' delivers an immersive and thrilling VR experience. Are you ready to face the zombie apocalypse? 🔥",
     tags: [
       {
-        name: "react",
+        name: "Virtual Reality",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Game",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Unreal Engine 5",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://kt1v0b-wr.myshopify.com/products/vr-shoot-zombies-i-preview-tested-on-oculus-quest-headsets",
   },
   {
-    name: "Job IT",
+    name: "FPS Shoot Zombies I Preview (PC Version)",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "FPS zombie game with first two chapters available at the moment for this preview version.&nbsp; No installation of the game required. Get ready for an intense and realistic zombie survival experience. This preview showcases a taste of the full version, featuring an advanced weapon system that includes: Assault Rifle: Offers versatile combat with semi-auto, full-auto, and burst fire modes. But beware! The zombies in this game are relentless. Built with intelligent AI, they can navigate complex environments, actively chase you down, and attack with varied and terrifying behaviors. Have fun to survive!",
     tags: [
       {
-        name: "react",
+        name: "FPS",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Game",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Unreal Engine 5",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
-  },
-  {
-    name: "Trip Guide",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://kt1v0b-wr.myshopify.com/products/fps-shoot-zombies-i-preview",
   },
 ];
 
