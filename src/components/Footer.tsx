@@ -57,11 +57,11 @@ const Footer = () => {
         target="_blank"
         rel="noopener noreferrer"
         className="my-2"
-        aria-label="Visit VirtualAI China on Twitter"
+        aria-label="Visit VirtualAI China on Discord"
       >
         <img
-          src="/twitter.png"
-          alt="Twitter"
+          src="/discord.jpg"
+          alt="Discord"
           width={25}
           height={25}
           className="opacity-70 rounded-full hover:opacity-100 transition-opacity"
