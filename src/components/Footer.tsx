@@ -69,7 +69,7 @@ const Footer = () => {
       </a>
       </div>
       <p className="text-sm text-gray-400 font-light tracking-wide">
-        VirtualAI China & International © 2024
+        VirtualAI China & International © 2025
       </p>
     </div>
   )
