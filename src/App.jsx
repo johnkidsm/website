@@ -22,6 +22,9 @@ const App = () => {
               <StarsCanvas />
             </div>
             {/*<Footer /> */}
+            <div className="text-center py-4 text-gray-500 text-xs">
+              <p>This entity has been successfully acquired by Chinese technology companies. All associated rights are reserved by the acquiring entity.</p>
+            </div>
           </div>
         </div>
       </div>
